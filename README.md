@@ -23,8 +23,12 @@ Ce projet implémente un système de recherche textuelle basé sur l'indexation 
 
 ### Prérequis
 
-1. Clonez le repository sur votre machine locale :
+1. Clonez le repository sur votre machine locale
+2. Créez un environnement virtuel et installez les dépendances nécessaires
+3. Téléchargement des ressources NLTK
+4. Lancer l'application Dash 
 
-```bash
-git clone https://github.com/votre-utilisateur/nom-du-repository.git
-cd nom-du-repository
+
+
+
+
