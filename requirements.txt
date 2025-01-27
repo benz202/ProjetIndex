@@ -1,1 +1,6 @@
+dash
+wordcloud
+nltk
+pandas
+matplotlib
 
